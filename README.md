@@ -12,7 +12,7 @@ Vehicles have the following fields: Vehicle id, Vehicle name, Initial Position X
 
 Installation
 
-Clone the repository: git clone https://github.com/your-username/your-repository.git
+Clone the repository: git clone https://github.com/kameshwar44/VehicleScenarioApplication.git
 Navigate to the project directory: cd your-repository
 Install the dependencies: npm install
 
